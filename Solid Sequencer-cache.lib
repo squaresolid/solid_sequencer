@@ -1,0 +1,381 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Solid_Sequencer-eagle-import_+9V
+#
+DEF Solid_Sequencer-eagle-import_+9V #SUPPLY 0 40 Y Y 1 L P
+F0 "#SUPPLY" 0 0 50 H I C CNN
+F1 "Solid_Sequencer-eagle-import_+9V" -75 125 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 50 50 1 0 10 N
+P 2 1 0 0 -25 50 25 50 N
+P 2 1 0 0 0 25 0 75 N
+X +9V 1 0 -100 100 U 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_050-EU1
+#
+DEF Solid_Sequencer-eagle-import_050-EU1 C 0 40 Y Y 1 L N
+F0 "C" 60 115 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_050-EU1" 60 -85 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 -100 100 42 0 1 0 + Normal 0 L B
+S -80 20 80 40 1 0 0 F
+P 2 1 0 0 -81 60 81 60 N
+P 2 1 0 0 -81 80 -81 60 N
+P 2 1 0 0 0 0 0 20 N
+P 2 1 0 0 0 80 -81 80 N
+P 2 1 0 0 0 100 0 80 N
+P 2 1 0 0 81 60 81 80 N
+P 2 1 0 0 81 80 0 80 N
+X + + 0 200 100 D 0 0 1 0 P
+X - - 0 -100 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_075X0302
+#
+DEF Solid_Sequencer-eagle-import_075X0302 C 0 40 Y Y 1 L N
+F0 "C" 60 115 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_075X0302" 60 -85 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 20 80 40 1 0 0 F
+S -80 60 80 80 1 0 0 F
+P 2 1 0 0 0 0 0 20 N
+P 2 1 0 0 0 100 0 80 N
+X 1 1 0 200 100 D 0 0 1 0 P
+X 2 2 0 -100 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_075X0303
+#
+DEF Solid_Sequencer-eagle-import_075X0303 C 0 40 Y Y 1 L N
+F0 "C" 60 115 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_075X0303" 60 -85 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 20 80 40 1 0 0 F
+S -80 60 80 80 1 0 0 F
+P 2 1 0 0 0 0 0 20 N
+P 2 1 0 0 0 100 0 80 N
+X 1 1 0 200 100 D 0 0 1 0 P
+X 2 2 0 -100 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_1N400X.3
+#
+DEF Solid_Sequencer-eagle-import_1N400X.3 D 0 40 Y Y 1 L N
+F0 "D" -140 79 70 H V L BNN
+F1 "Solid_Sequencer-eagle-import_1N400X.3" -170 -141 70 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -50 0 0 N
+P 2 1 0 0 -100 50 -100 -50 N
+P 2 1 0 0 0 0 -100 50 N
+P 2 1 0 0 0 0 0 -50 N
+P 2 1 0 0 0 50 0 0 N
+X A A -200 0 100 R 0 0 1 0 P
+X C C 100 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_1N914.3
+#
+DEF Solid_Sequencer-eagle-import_1N914.3 D 0 40 Y Y 1 L N
+F0 "D" -140 79 70 H V L BNN
+F1 "Solid_Sequencer-eagle-import_1N914.3" -170 -141 70 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -50 0 0 N
+P 2 1 0 0 -100 50 -100 -50 N
+P 2 1 0 0 0 0 -100 50 N
+P 2 1 0 0 0 0 0 -50 N
+P 2 1 0 0 0 50 0 0 N
+X A A -200 0 100 R 0 0 1 0 P
+X C C 100 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_2,15_1,0
+#
+DEF Solid_Sequencer-eagle-import_2,15_1,0 PAD 0 40 Y Y 1 L N
+F0 "PAD" -45 73 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_2,15_1,0" -45 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -40 -40 40 40 N
+P 2 1 0 0 -40 40 40 -40 N
+X P 1 100 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_4022N
+#
+DEF ~Solid_Sequencer-eagle-import_4022N IC 0 40 Y Y 2 L N
+F0 "IC" -50 -25 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_4022N" -300 -700 59 H I L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 900 75 100 42 0 2 0 VDD Normal 0 L B
+T 900 75 -230 42 0 2 0 VSS Normal 0 L B
+P 2 1 0 0 -300 -600 300 -600 N
+P 2 1 0 0 -300 500 -300 -600 N
+P 2 1 0 0 300 -600 300 500 N
+P 2 1 0 0 300 500 -300 500 N
+X Q1 1 500 300 200 L 50 50 1 0 O
+X Q7 10 500 -300 200 L 50 50 1 0 O
+X Q4 11 500 0 200 L 50 50 1 0 O
+X CO 12 500 -500 200 L 50 50 1 0 O
+X CLR 13 -500 400 200 R 50 50 1 0 I
+X CLK 14 -500 0 200 R 50 50 1 0 I C
+X RES 15 -500 -500 200 R 50 50 1 0 I
+X Q0 2 500 400 200 L 50 50 1 0 O
+X Q2 3 500 200 200 L 50 50 1 0 O
+X Q5 4 500 -100 200 L 50 50 1 0 O
+X Q6 5 500 -200 200 L 50 50 1 0 O
+X Q3 7 500 100 200 L 50 50 1 0 O
+X VDD 16 0 300 200 D 50 0 2 0 W
+X VSS 8 0 -300 200 U 50 0 2 0 W
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_4046N
+#
+DEF ~Solid_Sequencer-eagle-import_4046N IC 0 40 Y Y 2 L N
+F0 "IC" -50 -25 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_4046N" -400 -800 59 H I L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 900 75 100 42 0 2 0 VDD Normal 0 L B
+T 900 75 -230 42 0 2 0 VSS Normal 0 L B
+P 2 1 0 0 -400 -700 400 -700 N
+P 2 1 0 0 -400 600 -400 -700 N
+P 2 1 0 0 400 -700 400 600 N
+P 2 1 0 0 400 600 -400 600 N
+X PP 1 600 500 200 L 50 50 1 0 O
+X DEMO 10 600 -500 200 L 50 50 1 0 O
+X R1 11 -600 -500 200 R 50 50 1 0 I
+X R2 12 -600 -600 200 R 50 50 1 0 I
+X PC2 13 600 200 200 L 50 50 1 0 O
+X SIGIN 14 -600 200 200 R 50 50 1 0 I
+X ZEN 15 600 -600 200 L 50 50 1 0 I
+X PC1 2 600 400 200 L 50 50 1 0 O
+X CIN 3 -600 500 200 R 50 50 1 0 I
+X VCOOUT 4 -600 400 200 R 50 50 1 0 O
+X INH 5 -600 -400 200 R 50 50 1 0 I
+X CX@1 6 -600 0 200 R 50 50 1 0 I
+X CX@2 7 -600 -300 200 R 50 50 1 0 I
+X VCOIN 9 600 -300 200 L 50 50 1 0 I
+X VDD 16 0 300 200 D 50 0 2 0 W
+X VSS 8 0 -300 200 U 50 0 2 0 W
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_9VBATTERY
+#
+DEF Solid_Sequencer-eagle-import_9VBATTERY V 0 40 Y Y 1 L N
+F0 "V" 175 25 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_9VBATTERY" 175 -100 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 -80 95 51 0 1 0 + Normal 0 L B
+T 0 -75 -155 51 0 1 0 - Normal 0 L B
+P 2 1 0 0 -100 -25 100 -25 N
+P 2 1 0 0 -100 75 100 75 N
+P 2 1 0 0 -45 -75 45 -75 N
+P 2 1 0 0 -45 25 45 25 N
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 100 0 70 N
+X + + 0 200 100 D 0 0 1 0 P
+X - - 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_CLOSEDMONO
+#
+DEF ~Solid_Sequencer-eagle-import_CLOSEDMONO J 0 40 Y Y 1 L N
+F0 "J" -500 -100 59 V V L BNN
+F1 "Solid_Sequencer-eagle-import_CLOSEDMONO" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -400 -100 -400 100 N
+P 2 1 0 0 -400 100 -300 100 N
+P 2 1 0 0 -300 -100 -400 -100 N
+P 2 1 0 0 -300 100 -300 -100 N
+P 2 1 0 0 -300 100 200 100 N
+P 2 1 0 0 -200 -100 -150 -50 N
+P 2 1 0 0 -150 -50 -100 -100 N
+P 2 1 0 0 -100 -100 0 -100 N
+P 2 1 0 0 -50 -50 0 -100 N
+P 2 1 0 0 0 -100 0 0 N
+P 2 1 0 0 0 -100 50 -50 N
+P 2 1 0 0 0 -100 200 -100 N
+P 2 1 0 0 0 0 200 0 N
+X CONNECT CONNECT 200 0 0 R 50 0 1 0 P
+X RING SLEEVE 200 100 0 R 50 0 1 0 P
+X TIP TIP 200 -100 0 R 50 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_GND
+#
+DEF Solid_Sequencer-eagle-import_GND #GND 0 40 Y Y 1 L P
+F0 "#GND" 0 0 50 H I C CNN
+F1 "Solid_Sequencer-eagle-import_GND" -100 -100 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -75 0 75 0 N
+X GND 1 0 100 100 D 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_LED3MM
+#
+DEF Solid_Sequencer-eagle-import_LED3MM LED 0 40 Y Y 1 L N
+F0 "LED" 140 -180 59 V V L BNN
+F1 "Solid_Sequencer-eagle-import_LED3MM" 225 -180 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -80 -30 -135 -85 N
+P 2 1 0 0 -75 -75 -130 -130 N
+P 2 1 0 0 0 -100 -50 -100 N
+P 2 1 0 0 0 -100 -50 0 N
+P 2 1 0 0 0 0 -50 0 N
+P 2 1 0 0 0 0 0 -100 N
+P 2 1 0 0 50 -100 0 -100 N
+P 2 1 0 0 50 0 0 -100 N
+P 2 1 0 0 50 0 0 0 N
+P 3 1 0 0 -135 -85 -120 -50 -100 -70 F
+P 3 1 0 0 -130 -130 -115 -95 -95 -115 F
+X A A 0 100 100 D 0 0 1 0 P
+X C K 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_MOMENTARY
+#
+DEF ~Solid_Sequencer-eagle-import_MOMENTARY SW 0 40 Y Y 1 L N
+F0 "SW" -175 -150 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_MOMENTARY" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C -100 0 30 1 0 16 N
+C 100 0 30 1 0 16 N
+P 2 1 0 0 -100 100 0 100 N
+P 2 1 0 0 -60 150 -60 170 N
+P 2 1 0 0 -60 170 60 170 N
+P 2 1 0 0 0 100 0 150 N
+P 2 1 0 0 0 150 -60 150 N
+P 2 1 0 0 60 150 10 150 N
+P 2 1 0 0 60 170 60 150 N
+P 2 1 0 0 100 100 0 100 N
+X P 1 -200 0 100 R 50 0 1 0 P
+X S 2 200 0 100 L 50 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_NE555
+#
+DEF Solid_Sequencer-eagle-import_NE555 IC 0 40 Y Y 1 L N
+F0 "IC" -300 450 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_NE555" -300 -500 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -300 -400 300 -400 N
+P 2 1 0 0 -300 400 -300 -400 N
+P 2 1 0 0 300 -400 300 400 N
+P 2 1 0 0 300 400 -300 400 N
+X GND 1 400 -300 100 L 50 50 1 0 W
+X TRI 2 -400 -300 100 R 50 50 1 0 I
+X OUT 3 400 0 100 L 50 50 1 0 O
+X /RES 4 400 200 100 L 50 50 1 0 I
+X CON 5 400 -200 100 L 50 50 1 0 I
+X TRE 6 -400 300 100 R 50 50 1 0 I
+X DIS 7 -400 0 100 R 50 50 1 0 I
+X VCC+ 8 400 300 100 L 50 50 1 0 W
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_POT-EU
+#
+DEF Solid_Sequencer-eagle-import_POT-EU POT 0 40 Y Y 1 L N
+F0 "POT" -200 -100 59 V V L BNN
+F1 "Solid_Sequencer-eagle-import_POT-EU" -100 -100 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 900 100 -250 42 0 1 0 1 Normal 0 L B
+T 900 200 -50 42 0 1 0 2 Normal 0 L B
+T 900 100 210 42 0 1 0 3 Normal 0 L B
+P 2 1 0 0 -40 -100 40 -100 N
+P 2 1 0 0 -40 100 -40 -100 N
+P 2 1 0 0 40 -100 40 100 N
+P 2 1 0 0 40 100 -40 100 N
+P 2 1 0 0 50 0 100 50 N
+P 2 1 0 0 55 -135 80 -85 N
+P 2 1 0 0 80 -185 80 -85 N
+P 2 1 0 0 80 -85 105 -135 N
+P 2 1 0 0 100 -50 50 0 N
+P 2 1 0 0 100 50 100 -50 N
+P 2 1 0 0 105 -135 55 -135 N
+X 1 1 0 -200 100 U 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+X 3 3 0 200 100 D 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_R-EU_0207_7
+#
+DEF Solid_Sequencer-eagle-import_R-EU_0207_7 R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "Solid_Sequencer-eagle-import_R-EU_0207_7" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -35 -100 35 N
+P 2 1 0 0 -100 -35 100 -35 N
+P 2 1 0 0 100 -35 100 35 N
+P 2 1 0 0 100 35 -100 35 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Solid_Sequencer-eagle-import_SPST
+#
+DEF ~Solid_Sequencer-eagle-import_SPST SW 0 40 Y Y 1 L N
+F0 "SW" 150 -175 59 V V L BNN
+F1 "Solid_Sequencer-eagle-import_SPST" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 100 30 1 0 16 N
+P 2 1 0 0 0 -125 0 -75 N
+P 2 1 0 0 0 -75 -95 95 N
+X P 1 0 -200 100 U 50 0 1 0 P
+X S 2 0 200 100 D 50 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
